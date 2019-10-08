@@ -1,4 +1,5 @@
 # Jekyll Resume Theme
+changes by me.
 
 A mega simple Jekyll theme for displaying a resume/cv online.
 
