@@ -1,19 +1,19 @@
 # Jekyll Resume Theme
 
 # Site settings
-title: Jekyll Resume
-email: email@domain.com
-description: Jekyll Resume is a mega simple resume theme for Jekyll.
+title: Shantanu Agarwal CV
+email: a.shantanu08@gmail.com
+description: My CV for Jekyll Resume theme.
 baseurl: ""
-url: "http://mattcouchman.co.uk/jekyll-resume"
-name: Matt Couchman
-job: front end engineer
-location: Birmingham, UK
-languages: HTML, CSS and Javascript
-twitter_username: mattcouchman
-github_username:  mattcouchman
-codepen_username:  mattcouchman
-email_address: some@email.com
+url: "http://ashantanu.github.io"
+name: Shantanu Agarwal
+job: Equities Strategist, Goldman Sachs
+location: Bangalore, India
+languages: C++, Python, Slang
+#twitter_username: mattcouchman
+github_username:  ashantanu
+#codepen_username:  mattcouchman
+email_address: a.shantanu08@gmail.com
 
 # Build settings
-markdown: kramdown
+markdown: ashantanu
