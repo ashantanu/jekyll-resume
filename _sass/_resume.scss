@@ -27,8 +27,12 @@ dt, dd {
     }
 
     .education {
-        dt, dd {
+        dt {
             width: 30%;
+            padding-right: ($spacer * 2);
+        }
+        dd {
+            width: 70%;
         }
     }
 }
