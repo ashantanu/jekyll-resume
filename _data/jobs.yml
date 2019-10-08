@@ -1,7 +1,14 @@
--   title: Engineering Lead
-    company: Company X
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-   title: Equities Strategist, Senior Analyst
+    company: Goldman Sachs, Bangalore
+    description: Currenty working as a quantitative analyst in prime brokerage business with roles in liquidity management, lockup projection, inventory management and funding.
 
--   title: Front end developer
-    company: Company Y
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-   title: Software Engineer Intern
+    company: Samsung R&D Institute, Bangalore
+    description: Designed a new feature which analyses and reports user transactions in Samsung mobile payments app. Researched competitive apps across different platforms and built a working demo.
+    
+-   title: Machine Learning Intern
+    company: iLenze, Bangalore
+    description: Implemented object detection in raw images using deep learning library Caffe and region proposal generation; Achieved 87% accuracy in object detection. As part of this project, I developed enhancements for Caffe introducing C++ interfaces, implemented image retrieval for high dimension non-sparse vectors using product quantisation and achieved 90% accuracy with 100ms retrieval time in a set of 60K vectors of 4096 dimension.
+    
+    
+    
