@@ -1,5 +1,10 @@
 # Jekyll Resume Theme
 changes by me.
+to run, go to this directory and run following
+jekyll build
+jekyll serve 
+and then open http://localhost:4000
+
 
 A mega simple Jekyll theme for displaying a resume/cv online.
 
