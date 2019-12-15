@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home</title>
+    <description>Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+</description>
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 16 Dec 2019 01:24:28 +0530</pubDate>
+    <lastBuildDate>Mon, 16 Dec 2019 01:24:28 +0530</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Travel Diary</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Wanderlust:&lt;/strong&gt;
+(n.) a strong desire for or impulse to wander or travel and explore the world.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I absloutely love travelling and exploring local culture where ever I go. Having visited multiple states within India there’s a long list to go. My international exploration began with a trip to Bhutan in 2013, and I have travelled to 10 countries since. (I am well aware that’s not much).&lt;/p&gt;
+
+&lt;p&gt;I hope to start a travel blog soon to share my experiences and help fellow travellers. Meanwhile, here are some crazy travel stories:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Got trapped in Hong Kong when typhoon &lt;a href=&quot;https://en.wikipedia.org/wiki/Typhoon_Mangkhut&quot;&gt;Mangkhut&lt;/a&gt; hit the city. It was the strongest typhoon to affect Hong Kong since 1983.&lt;/li&gt;
+  &lt;li&gt;Started my Euro trip in 2019 when it was hit by the worst heat wave in over 100 years. Basically I to tropical climates leaving pleasant Bangalore weather.&lt;/li&gt;
+  &lt;li&gt;Won 50x on my first attempt at a slot machine in the Casino at Maine Bay Sands. Unfortunately, I put in only 1 SGD.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-size:3mm;&quot;&gt;*Map created using &lt;a href=&quot;https://www.visme.co/&quot;&gt;Visme&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 15 Dec 2019 00:00:00 +0530</pubDate>
+        <link>/travel-home/</link>
+        <guid isPermaLink="true">/travel-home/</guid>
+        
+        <category>Travel</category>
+        
+        <category>World</category>
+        
+        <category>Culture</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Exploring Sketching</title>
+        <description>&lt;p&gt;I started out with sketching anime characters as a kid, and explored by myself since then. With no formal training, I try as much as I can with different mediums that I can find.&lt;/p&gt;
+
+&lt;p&gt;Will be posting more of my artwork, like the recent Inktober’19 soon.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/sketch4.jpg&quot; alt=&quot;sketch1&quot; title=&quot;sketch1&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Dec 2019 00:00:00 +0530</pubDate>
+        <link>/sketching/</link>
+        <guid isPermaLink="true">/sketching/</guid>
+        
+        <category>Sketching</category>
+        
+        <category>Art</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
