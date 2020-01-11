@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Personal Page</title>
+    <title>Home</title>
     <description>Personal page of Shantanu Agarwal
 </description>
     <link></link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 11 Jan 2020 03:39:03 +0530</pubDate>
-    <lastBuildDate>Sat, 11 Jan 2020 03:39:03 +0530</lastBuildDate>
+    <pubDate>Sat, 11 Jan 2020 12:55:23 +0530</pubDate>
+    <lastBuildDate>Sat, 11 Jan 2020 12:55:23 +0530</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
