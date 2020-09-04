@@ -4,10 +4,10 @@
     <title>Home</title>
     <description>Personal page of Shantanu Agarwal
 </description>
-    <link></link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 Feb 2020 13:25:46 +0530</pubDate>
-    <lastBuildDate>Sun, 16 Feb 2020 13:25:46 +0530</lastBuildDate>
+    <link>https://ashantanu.github.io</link>
+    <atom:link href="https://ashantanu.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 04 Sep 2020 18:27:33 +0530</pubDate>
+    <lastBuildDate>Fri, 04 Sep 2020 18:27:33 +0530</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -29,37 +29,35 @@
 &lt;p&gt;And here are some travel highlights,&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Skydived in New York and Prague.&lt;/li&gt;
-  &lt;li&gt;Scuba at Havelock Island in Andaman and Nicobar group of Islands in India.&lt;/li&gt;
-  &lt;li&gt;Saw ‘Mona Lisa’ after a terribly long line that took me over 2 hours.&lt;/li&gt;
+  &lt;li&gt;Scuba at Havelock Island in Andaman and Nicobar group of Islands, India.&lt;/li&gt;
+  &lt;li&gt;Saw THE ‘Mona Lisa’ after a terribly long line that took me over 2 hours.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;span style=&quot;font-size:3mm;&quot;&gt;*Map created using &lt;a href=&quot;https://www.visme.co/&quot;&gt;Visme&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 15 Dec 2019 00:00:00 +0530</pubDate>
-        <link>/travel-home/</link>
-        <guid isPermaLink="true">/travel-home/</guid>
+        <link>https://ashantanu.github.io/travel-home/</link>
+        <guid isPermaLink="true">https://ashantanu.github.io/travel-home/</guid>
         
         <category>Travel</category>
         
         <category>World</category>
         
-        <category>Culture</category>
-        
         
       </item>
     
       <item>
-        <title>Exploring Sketching</title>
-        <description>&lt;p&gt;I started out with sketching anime characters as a kid and explored by myself since then. With no formal training, I try as much as I can with different mediums that I can find.&lt;/p&gt;
+        <title>Sketching</title>
+        <description>&lt;p&gt;I started out with sketching anime characters as a kid. With no formal training, I try as much as I can with different mediums that I can find.&lt;/p&gt;
 
-&lt;p&gt;I will be posting more of my artwork, like the recent Inktober’19 soon.&lt;/p&gt;
+&lt;p&gt;I will be posting more of my artwork, like the Inktober’19 soon.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/sketch4.jpg&quot; alt=&quot;sketch1&quot; title=&quot;sketch1&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 12 Dec 2019 00:00:00 +0530</pubDate>
-        <link>/sketching/</link>
-        <guid isPermaLink="true">/sketching/</guid>
+        <link>https://ashantanu.github.io/sketching/</link>
+        <guid isPermaLink="true">https://ashantanu.github.io/sketching/</guid>
         
         <category>Sketching</category>
         

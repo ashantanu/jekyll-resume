@@ -1,7 +1,7 @@
 #Need to do git add manually
-read -p "Enter commit message : " commitMessage
+#read -p "Enter commit message : " commitMessage
 #cd personalWeb
-git commit -m "$commitMessage"
+#git commit -m "$commitMessage"
 git push origin
 bundle exec jekyll build
 rm -r ../ashantanu.github.io/*
